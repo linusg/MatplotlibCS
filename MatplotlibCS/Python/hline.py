@@ -18,4 +18,3 @@ class Hline(Line2D):
                     linestyle=self.lineStyle,
                     alpha=self.alpha,
                   label=label)
-        plot.hold(True)
