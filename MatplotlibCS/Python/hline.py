@@ -17,4 +17,4 @@ class Hline(Line2D):
                     lw=self.lineWidth,
                     linestyle=self.lineStyle,
                     alpha=self.alpha,
-                  label=label)
+                    label=label)
